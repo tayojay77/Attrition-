@@ -6,7 +6,7 @@ Attrition-Analysis
 
 ## Introduction 
 
-This is a SQL (Structured Query Language) project for attrition. Attrition is simply mean when an employee leaves the company by way of voluntary resignation due to professional or personal reasons, and the vacant position cannot be replaced immediately. So this project aims to delve deeply into the major factors resulting in employee attrition and explore how organizations can best mitigate these issues to improve the quality of life for every employee and increase employee retention rates.
+This is a SQL (Structured Query Language) project for attrition. Attrition is simply mean when an employee leaves an organization by way of voluntary resignation due to professional or personal reasons, and the vacant position cannot be replaced immediately. So this project aims to delve deeply into the major factors resulting in employee attrition and explore how organizations can best mitigate these issues to improve the quality of life for every employee and increase employee retention rates.
 
 As a diligent data analyst, I delved into the HR dataset on attrition, eager to unveil the stories embedded within the numbers. I delved into demographics, examining employees in age groups between 18-25, 26-35, 36-45, 46-55, and 55+.
 
