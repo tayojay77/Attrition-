@@ -1,27 +1,33 @@
-# Attrition
+Attrition-Analysis
+
+## Analysis on Employee Attrition Using SQL 
 
 ## Introduction 
 
-This is a Power BI project for Attrition, this project aim at looking deeply into major factors resulting in employee attrition and how best Organizations can mitigate and improve the quality of life of every employee and increase employees retention rate. 
+This is a SQL (Structured Query Language) project for attrition. This project aims to delve deeply into the major factors resulting in employee attrition and explore how organizations can best mitigate these issues to improve the quality of life for every employee and increase employee retention rates.
+
+As a diligent data analyst, I delved into the HR dataset on attrition, eager to unveil the stories embedded within the numbers. I delved into demographics, examining employees in age groups between 18-25, 26-35, 36-45, 46-55, and 55+.
 
 ## Data Source 
 
 The HR dataset was gotten from Kaggle.com. 
 
-The dataset has 38 columns with 1470 records which comparises of ( employeeID, Age, AgeGroup, Attrition, BussinessTravel, DailyRate, Department, DistanceFromHome, Education, EducationField, EmployeeCount, EmployeeNum, EnvironmentSatisfaction, Gender, HourlyRate, JobInvolvement, JobLevel, JobRole, JobSatisfaction, MaritalStaus, MonthlyIncome, SalarySab, MonthlyRate, NumOfCompaniesWorked, Over18, Overtime, PercentSalaryHike, PerformanceRating, RelationshipSatisfaction, StandardHours, StockOptionLevel, TotalWorkingYears, Trainningtime, WorkLifeBalance, YearAtCompany, YearSinceLastPromotion, YearsWithCurrManager, and i created three addtional columns, first with number of Yes attrition and number of No Attrition, i also categorize the agegroup into Genz, Millenum, Sem-Mellenum, Mid-Analog and Analog) 
+The dataset has 38 columns with 1480 records which comparises of EmmployeeID, Age, AgeGroup, Attrition, BussinessTravel, DailyRate, Department, DistanceFromHome, Education, EducationField, and many more.
 
 ## Data Cleaning 
 
-To ensure data integrity and consistency i had to cleaned the dataset by assigning the right data type to every column, i run a query to investigate the duplicates in the employee_id and i found out that, there was 10 duplicates rows, which i removed in order to ensure accurate analysis. 
+To ensure data integrity and consistency, I had to clean the dataset by assigning the correct data type to every column. I ran a query to investigate duplicates in the employee_id and found that there were 10 duplicate rows, which I removed to ensure accurate analysis.. 
 
 ## Objective 
 
-The purpose of this project is to analyze and uncover the story embeded in the numbers behind HR dataset, and to extract useful informations and insight to support descision making on how employers and organization can improve the quality of work environment and prioritize employee wearfare and mental health in order to reduce attrition and increase employees retention! 
+The purpose of this project is to analyze and uncover the stories embedded in the numbers within the HR dataset. It aims to extract useful information and insights to support decision-making on how employers and organizations can improve the quality of the work environment, prioritize employee welfare and mental health, and ultimately reduce attrition rates while increasing employee retention.
 
 ## Problem Statement 
 
 1. What are the major causes of Attrition in an Organization
-2. How can attrition be Mitegated in an Organization 
+2. How can attrition be Mitegated in an Organization
+3. Are there specific departments or job roles more susceptible to attrition, and if so, why?
+4. How does employee satisfaction with compensation and benefits correlate with attrition?
 
 ## Skills Demostracted 
 
