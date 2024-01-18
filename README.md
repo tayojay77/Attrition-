@@ -2,21 +2,27 @@ Attrition-Analysis
 
 ## Analysis on Employee Attrition Using SQL 
 
+![](Attrition.jpg)
+
 ## Introduction 
 
-This is a SQL (Structured Query Language) project for attrition. This project aims to delve deeply into the major factors resulting in employee attrition and explore how organizations can best mitigate these issues to improve the quality of life for every employee and increase employee retention rates.
+This is a SQL (Structured Query Language) project for attrition. Attrition is simply mean when an employee leaves the company by way of voluntary resignation due to professional or personal reasons, and the vacant position cannot be replaced immediately. So this project aims to delve deeply into the major factors resulting in employee attrition and explore how organizations can best mitigate these issues to improve the quality of life for every employee and increase employee retention rates.
 
 As a diligent data analyst, I delved into the HR dataset on attrition, eager to unveil the stories embedded within the numbers. I delved into demographics, examining employees in age groups between 18-25, 26-35, 36-45, 46-55, and 55+.
 
 ## Data Source 
 
-The HR dataset was gotten from Kaggle.com. 
-
+The HR dataset was gotten from Kaggle.com. as CSV file 
 The dataset has 38 columns with 1480 records which comparises of EmmployeeID, Age, AgeGroup, Attrition, BussinessTravel, DailyRate, Department, DistanceFromHome, Education, EducationField, and many more.
+
+### The raw dataset
+![](Raw_Data.JPG) 
 
 ## Data Cleaning 
 
-To ensure data integrity and consistency, I had to clean the dataset by assigning the correct data type to every column. I ran a query to investigate duplicates in the employee_id and found that there were 10 duplicate rows, which I removed to ensure accurate analysis.. 
+To ensure data integrity and consistency, after i imported the data from Microsoft Excel as CSV file, I had to clean the dataset by assigning the correct data type to every column. I ran a query to investigate duplicates in the employee_id and found that there were 10 duplicate rows, which I removed to ensure accurate analysis.. 
+
+![](Import_data_processing.JPG), ![](Data_type.JPG)  ![](Identify_dupliacte_data.JPG), ![](Removed_duplicate.JPG)
 
 ## Objective 
 
