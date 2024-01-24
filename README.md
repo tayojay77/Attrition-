@@ -62,3 +62,15 @@ The age group between 36-45 accounts for a moderate attrition rate of 9%. This s
 ## Major causes of Attrition in an Organization
 
 It is evident that there are several significant causes of attrition in today's organizations. Employers and organizations must pay adequate attention to these factors and make informed decisions to address them, in order to reduce the attrition rate and enhance retention. After my careful analysis of the HR dataset, I looked into various metrics and variables and discovered that job satisfaction, job level, marital status, low salary, and work-life balance are some of the major causes of the attrition rate. Let's delve deeper into these key findings.
+
+## Insight 
+
+- Employee satisfaction with their roles and overall work experience is a crucial factor influencing attrition. Dissatisfaction can lead to a higher likelihood of employees seeking alternative opportunities.
+
+- Employees at certain levels may be more prone to leaving, whether due to limited advancement opportunities or other job-related factors.
+
+- Compensation is a critical aspect affecting employee satisfaction and retention. Salary below  industry standards or employee expectations can lead to increased attrition rates.
+
+- The balance between work and personal life is another key determinant. Employees who perceive an imbalance may be more inclined to seek employment elsewhere, that offer a healthier work-life.
+
+- And lastly, marital status appears to be a contributing factor to attrition. Employees with a single marital status and within the 18-35 age group account for 50.63% of overall attrition. This is a significant rate; further analysis needs to be done in correlation with other variables.
