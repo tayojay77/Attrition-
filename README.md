@@ -12,7 +12,7 @@ As a diligent data analyst, I delved into the HR dataset on attrition, eager to 
 
 ## Data Source 
 
-The HR dataset was gotten from Kaggle.com. as CSV file 
+The HR dataset was gotten from Kaggle.com. as CSV file. 
 The dataset has 38 columns with 1480 records which comparises of EmmployeeID, Age, AgeGroup, Attrition, BussinessTravel, DailyRate, Department, DistanceFromHome, Education, EducationField, and many more.
 
 ### The raw dataset
@@ -30,10 +30,11 @@ The purpose of this project is to analyze and uncover the stories embedded in th
 
 ## Problem Statement 
 
-1. What are the major causes of Attrition in an Organization
-2. How can attrition be Mitegated in an Organization
-3. Are there specific departments or job roles more susceptible to attrition, and if so, why?
-4. How does employee satisfaction with compensation and benefits correlate with attrition?
+1. Which Age-Group is more likely to leave the Organization
+2. What are the major causes of Attrition in an Organization
+3. How can attrition be Mitegated in an Organization
+4. Are there specific departments or job roles more susceptible to attrition, and if so, why?
+5. How does employee satisfaction with compensation and benefits correlate with attrition?
 
 ## Skills Demostracted 
 
@@ -45,4 +46,16 @@ The following Power BI were Incorporated
 - Slicer
 - Data Storytelling 
 - Data Visulization
+
+## Analysis
+
+Having delved into the HR dataset, the organization has employed a total number of 1,470 employees over the years. The age group between 18-35 accounts for about 48% of total employees and also has the highest attrition. This shows that the organization has a substantial, relatively young, and early-career employee base. The fact that the 18-35 age group has the highest attrition suggests that employees within this age range are more likely to leave the organization compared to other age groups.
+![](Total_employee.JPG)
+
+## Attrition BY Age-Groups
+
+The age group between 18-25 and 26-35 has the highest attrition rate of 35% and 19% respectively. This is a significant finding and indicates that employees in this early career stage are more likely to leave the organization. Surprisingly, the 55+ age group, which accounts for less than 6% of the total employees, has an attrition rate of 17%. Despite being a smaller percentage of the workforce, the attrition rate is noteworthy, and the departure of 8 people out of 47 is relatively impactful. 
+
+The age group between 36-45 accounts for a moderate attrition rate of 9%. This shows that employees in the mid-career stage are relatively more stable in their positions compared to younger counterparts. The age group between 46-55 has an attrition rate of 11%. This is somewhat higher than the mid-career group (36-45) but lower than the early career stages (18-25 and 26-35)
+![](AgeGroup.JPG)
 
