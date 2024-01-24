@@ -59,3 +59,6 @@ The age group between 18-25 and 26-35 has the highest attrition rate of 35% and 
 The age group between 36-45 accounts for a moderate attrition rate of 9%. This shows that employees in the mid-career stage are relatively more stable in their positions compared to younger counterparts. The age group between 46-55 has an attrition rate of 11%. This is somewhat higher than the mid-career group (36-45) but lower than the early career stages (18-25 and 26-35)
 ![](AgeGroup.JPG)
 
+## Major causes of Attrition in an Organization
+
+It is evident that there are several significant causes of attrition in today's organizations. Employers and organizations must pay adequate attention to these factors and make informed decisions to address them, in order to reduce the attrition rate and enhance retention. After my careful analysis of the HR dataset, I looked into various metrics and variables and discovered that job satisfaction, job level, marital status, low salary, and work-life balance are some of the major causes of the attrition rate. Let's delve deeper into these key findings.
