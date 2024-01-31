@@ -82,7 +82,7 @@ It is evident that there are several significant causes of attrition in today's 
 ### This is the dashboard I created for the overall employee attrition, featuring various metrics and variables
 ![](Dashboard.JPG) 
 
-## Feel free to interact with the visualizations and analyze the data at your convenience [here](https://app.powerbi.com/view?r=eyJrIjoiOGMxNjk0MzktMGNiNy00ZDdkLWE2ZWQtNDg1MTNmMThmNTg1IiwidCI6ImMzYmI4OWM0LWE2MzItNDU1NC04YTlhLWVlNTI4NTI5NDc1NSJ9)
+## Feel free to interact with the report and analyze the data at your convenience [here](https://app.powerbi.com/view?r=eyJrIjoiOGMxNjk0MzktMGNiNy00ZDdkLWE2ZWQtNDg1MTNmMThmNTg1IiwidCI6ImMzYmI4OWM0LWE2MzItNDU1NC04YTlhLWVlNTI4NTI5NDc1NSJ9)
 
 ## Recommendation
 
