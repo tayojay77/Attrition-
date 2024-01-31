@@ -75,9 +75,11 @@ It is evident that there are several significant causes of attrition in today's 
 
 - And lastly, marital status appears to be a contributing factor to attrition. Employees with a single marital status and within the 18-35 age group account for 50.63% of overall attrition. This is a significant rate; further analysis needs to be done in correlation with other variables.
 
-# Visualization 
+## Visualization 
 
 ![](Maritial_Status.JPG)
 
-This is the dashboard I created for overall employee attrition, featuring various metrics and variables. You can interact with it [here](https://app.powerbi.com/view?r=eyJrIjoiOGMxNjk0MzktMGNiNy00ZDdkLWE2ZWQtNDg1MTNmMThmNTg1IiwidCI6ImMzYmI4OWM0LWE2MzItNDU1NC04YTlhLWVlNTI4NTI5NDc1NSJ9).
-![](Dashboard.JPG)
+### This is the dashboard I created for the overall employee attrition, featuring various metrics and variables.
+![](Dashboard.JPG) 
+
+## You can interact with report [here](https://app.powerbi.com/view?r=eyJrIjoiOGMxNjk0MzktMGNiNy00ZDdkLWE2ZWQtNDg1MTNmMThmNTg1IiwidCI6ImMzYmI4OWM0LWE2MzItNDU1NC04YTlhLWVlNTI4NTI5NDc1NSJ9).
