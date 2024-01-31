@@ -12,7 +12,7 @@ As a diligent data analyst, I delved into the HR dataset on attrition, eager to 
 
 ## Data Source 
 
-The HR dataset was gotten from Kaggle.com as CSV file. 
+The HR dataset was gotten from ![kaggle.com](Kaggle.com) as CSV file. 
 The dataset has 38 columns with 1480 records which comparises of EmmployeeID, Age, AgeGroup, Attrition, BussinessTravel, DailyRate, Department, DistanceFromHome, Education, EducationField, and many more.
 
 ### The raw dataset
