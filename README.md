@@ -1,6 +1,6 @@
 Attrition-Analysis
 
-## Analysis on Employee Attrition Using SQL 
+## Analysis on Employee Attrition Using SQL and POWER BI
 
 ![](Attrition.jpg)
 
