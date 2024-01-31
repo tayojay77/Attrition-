@@ -74,3 +74,10 @@ It is evident that there are several significant causes of attrition in today's 
 - The balance between work and personal life is another key determinant. Employees who perceive an imbalance may be more inclined to seek employment elsewhere, that offer a healthier work-life.
 
 - And lastly, marital status appears to be a contributing factor to attrition. Employees with a single marital status and within the 18-35 age group account for 50.63% of overall attrition. This is a significant rate; further analysis needs to be done in correlation with other variables.
+
+# Visualization 
+
+![](Maritial_Status.JPG)
+
+This is the dashboard I created for overall employee attrition, featuring various metrics and variables. You can interact with it here.
+![](Dashboard.JPG)
