@@ -79,5 +79,5 @@ It is evident that there are several significant causes of attrition in today's 
 
 ![](Maritial_Status.JPG)
 
-This is the dashboard I created for overall employee attrition, featuring various metrics and variables. You can interact with it here.
+This is the dashboard I created for overall employee attrition, featuring various metrics and variables. You can interact with it [here](https://app.powerbi.com/view?r=eyJrIjoiOGMxNjk0MzktMGNiNy00ZDdkLWE2ZWQtNDg1MTNmMThmNTg1IiwidCI6ImMzYmI4OWM0LWE2MzItNDU1NC04YTlhLWVlNTI4NTI5NDc1NSJ9).
 ![](Dashboard.JPG)
