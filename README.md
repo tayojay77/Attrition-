@@ -33,8 +33,7 @@ The purpose of this project is to analyze and uncover the stories embedded in th
 1. Which Age-Group is more likely to leave the Organization
 2. What are the major causes of Attrition in an Organization
 3. How can attrition be Mitegated in an Organization
-4. Are there specific departments or job roles more susceptible to attrition, and if so, why?
-5. How does employee satisfaction with compensation and benefits correlate with attrition?
+4. How does employee satisfaction with compensation and benefits correlate with attrition?
 
 ## Skills Demostracted 
 
