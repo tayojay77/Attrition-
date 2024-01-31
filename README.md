@@ -84,8 +84,7 @@ It is evident that there are several significant causes of attrition in today's 
 
 ## Feel free to interact with the visualizations and analyze the data at your convenience [here](https://app.powerbi.com/view?r=eyJrIjoiOGMxNjk0MzktMGNiNy00ZDdkLWE2ZWQtNDg1MTNmMThmNTg1IiwidCI6ImMzYmI4OWM0LWE2MzItNDU1NC04YTlhLWVlNTI4NTI5NDc1NSJ9)
 
-## Recommendation 
-![TheOfficeBowGIF](https://github.com/tayojay77/Attrition-/assets/138980110/040857c8-be1a-4f70-9742-4e86d8603450)
+## Recommendation
 
 - It's essential that organizations implement strategies to boost job satisfaction, including regular feedback sessions and career development opportunities.
 
