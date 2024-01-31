@@ -6,7 +6,7 @@ Attrition-Analysis
 
 ## Introduction 
 
-This is a SQL (Structured Query Language) project for attrition. Attrition is simply mean when an employee leaves an organization by way of voluntary resignation due to professional or personal reasons, and the vacant position cannot be replaced immediately. So this project aims to delve deeply into the major factors resulting in employee attrition and explore how organizations can best mitigate these issues to improve the quality of life for every employee and increase employee retention rates.
+This is a comprehensive SQL (Structured Query Language) and POWER BI project for employee attrition. Attrition is simply mean when an employee leaves an organization by way of voluntary resignation due to professional or personal reasons, and the vacant position cannot be replaced immediately. So this project aims to delve deeply into the major factors resulting in employee attrition and explore how organizations can best mitigate these issues to improve the quality of life for every employee and increase employee retention rates.
 
 As a diligent data analyst, I delved into the HR dataset on attrition, eager to unveil the stories embedded within the numbers. I delved into demographics, examining employees in age groups between 18-25, 26-35, 36-45, 46-55, and 55+.
 
@@ -38,7 +38,7 @@ The purpose of this project is to analyze and uncover the stories embedded in th
 
 ## Skills Demostracted 
 
-The following Power BI were Incorporated
+The following Power BI and SQL were Incorporated
 
 - Data cleaning
 - Power query editor
@@ -79,7 +79,31 @@ It is evident that there are several significant causes of attrition in today's 
 
 ![](Maritial_Status.JPG)
 
-### This is the dashboard I created for the overall employee attrition, featuring various metrics and variables.
+### This is the dashboard I created for the overall employee attrition, featuring various metrics and variables
 ![](Dashboard.JPG) 
 
-## You can interact with report [here](https://app.powerbi.com/view?r=eyJrIjoiOGMxNjk0MzktMGNiNy00ZDdkLWE2ZWQtNDg1MTNmMThmNTg1IiwidCI6ImMzYmI4OWM0LWE2MzItNDU1NC04YTlhLWVlNTI4NTI5NDc1NSJ9).
+## Feel free to interact with the visualizations and analyze the data at your convenience [here](https://app.powerbi.com/view?r=eyJrIjoiOGMxNjk0MzktMGNiNy00ZDdkLWE2ZWQtNDg1MTNmMThmNTg1IiwidCI6ImMzYmI4OWM0LWE2MzItNDU1NC04YTlhLWVlNTI4NTI5NDc1NSJ9)
+
+## Recommendation 
+![TheOfficeBowGIF](https://github.com/tayojay77/Attrition-/assets/138980110/040857c8-be1a-4f70-9742-4e86d8603450)
+
+- It's essential that organizations implement strategies to boost job satisfaction, including regular feedback sessions and career development opportunities.
+
+- It's also important that employers provide clear paths for career progression, addressing concerns related to job levels and advancement opportunities within an organization.
+
+- Organizations need to conduct regular reviews of salary structures to ensure competitiveness in the market and fair compensation for employees.
+
+- Lastly, employers need to consider offering flexible work arrangements to promote and enhance a healthier work-life balance and overall job satisfaction.
+
+## Conclusion 
+
+By addressing the identified causes of attrition and implementing the recommendations provided above, organizations can create a more conducive work environment, fostering employee satisfaction and ultimately reducing employee turnover rates. This strategy contributes not only to immediate retention but also to the long-term health and success of the organization.
+
+
+  ![TheOfficeBowGIF (2)](https://github.com/tayojay77/Attrition-/assets/138980110/9ffa1d0d-165d-4e7f-9a00-7d25607c8875)
+
+
+
+                                                   
+
+
